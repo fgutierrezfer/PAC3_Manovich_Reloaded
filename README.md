@@ -3,7 +3,7 @@ ___
 Autor: Fernando Gutiérrez Ferrerías | 
 Grau: Multimèdia – UOC | 
 Assignatura: Cultura Digital | 
-Semestre: 20240-2 | 
+Semestre: 2024-2 | 
 Data: 16 maig 2025
 ___
 # Anàlisi de dos casos recents d'hibridació segons la Teoria de Lev Manovich: Miku Hatsune (Vocaloid) i Gatebox
@@ -35,7 +35,7 @@ El sistema Vocaloid facilita a qualsevol persona, amb el domini necessari de l'e
 ![Usuari interactuant amb un dispositiu Gatebox © Gizmodo](https://es.gizmodo.com/app/uploads/2018/08/ybze4tcby9axo4am1se4.jpg)
 Gatebox representa un altre exemple d'hibridació mediàtica en el context de les tecnologies domèstiques intel·ligents. Desenvolupat per l'empresa japonesa Gatebox Inc. (actualment Mirai Inc.), aquest dispositiu transgredeix les fronteres tradicionals entre diversos mitjans i tecnologies, creant una experiència que, segons les teories de Lev Manovich, reflecteix les complexes dinàmiques de remediació i convergència en l'era digital.
 
-### De l'assistent virtual a la companya virtual
+### De l'assistent virtual a la companya sentimental virtual
 En aquest cas, es fusionen les tecnologies clàssiques associades a assistents virtuals com Siri, Alexa, Cortana o Google Assistant, com són reconeixement de veu, gestió de calendari, interacció amb interfícies i dispositius domòtics, incipient intel·ligència artificial, juntament amb la incorporació de tècniques hologràfiques per representar un personatge interactiu d'anime en tres dimensions especialment dissenyat per interactuar amb els usuaris en el plànol emocional. Aquest personatge, inclòs inicialment amb Gatebox, era Azuma Hikari i va causar sensació en un país com Japó on el 32% de les llars són unipersonals, arribant a casos extrems com el fenòmen *hikikomori* a períodes prolongats d'aïllament social. No obstant, ràpidament va evolucionar per oferir la possibilitat de personalització, moment en que entronca amb la fenomenologia diva de Miku Hatsune, analitzat anteriorment. 
 
 Gatebox ofereix diferents experiències i personatges per una experiència totament [*figital*](https://es.wikipedia.org/wiki/Phygital) (fusió del món físic i el digital), des d'una àmplia gama de fins a 400 avatars clàssics fins a la personalització amb el propi *aratar* (acrònim format a partir d'Augmented Reality -AR- i avatar), que es poden visualitzar en les anomenades [DigitalFigureBox](https://www.gatebox.ai/digitalfigurebox/en) integrades o en el format de càpsula original. El projecte [Living With](https://otakumode.com/news/59891f4fe73829a364824b3a/Gatebox-Making-a-Reality-Out-of-Living-with-Hatsune-Miku) afegeix l'experiència de convivència amb els personatges, fet que acaba resultant inevitablement en un allau de notícies on [aproximadament quatre mil homes s'uneixen en *casament* amb les seves companyes digitals virtuals](https://www.cbc.ca/documentaries/the-nature-of-things/i-love-her-and-see-her-as-a-real-woman-meet-a-man-who-married-an-artificial-intelligence-hologram-1.6253767).
