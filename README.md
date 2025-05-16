@@ -50,7 +50,11 @@ Aquests exemples il·lustren com la hibridació mediàtica està reconfigurant n
 ## Bibliografia
 
 MANOVICH, LEV. UOC Press (2013). *Software takes command*
+
 ADELL, FERRAN, Editorial UOC (2024). *Fonaments i evolució de la multimèdia*
+
 LA VANGUARDIA (2020). *Hatsune Miku, la diva virtual* [En línia](https://www.lavanguardia.com/edicion-impresa/20200126/473133281508/hatsune-miku-la-diva-virtual.html) [data de consulta: 15/5/2025]
+
 GATEBOX. *Gatebox - 「Living with Hatsune Miku」- Magical Mirai 2017 report - english* [En línia] [https://www.youtube.com/watch?v=R-lcyYmQDyw](https://www.youtube.com/watch?v=R-lcyYmQDyw) [data de consulta: 15/5/2025]
+
 ENGADGET. *The new Gatebox at CES 2020.* [En línia] [https://www.youtube.com/watch?v=R-lcyYmQDyw](https://www.youtube.com/watch?v=TMjm_HNZEgI) [data de consulta: 15/5/2025]
