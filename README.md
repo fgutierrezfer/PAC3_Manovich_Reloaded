@@ -17,7 +17,7 @@ A diferència de la multimèdia tradicional, caracteritzada per la simple "convi
 Lev Manovich defineix la hibridació mediàtica com la fusió de tècniques, formats i llenguatges de diferents mitjans que abans existien per separat, creant noves experiències que van més enllà de la simple suma de les parts. A diferència de la multimèdia, on els elements coexisteixen però mantenen les seves identitats separades, la hibridació produeix una experiència nova i coherent.
 
 ## Miku Hatsune: la hibridació personificada
-
+![Bàner de Miku Hatsune, © rtve](https://img2.rtve.es/i/?w=1600&i=1689160036357.jpg)
 ### L'origen *barceloní* de l'ànima de Miku Hatsune
 
 L'ànima de Miku Hatsune, la seva veu, té el seu origen en un programari de síntesi de veu anomenat Vocaloid (acrònim de *vocal* i *android*), que va ser nicialment desenvolupat per Yamaha Corporation el 2003, en col·laboració amb el Grup de Tecnologia Musical de la Universitat Pompeu Fabra de Barcelona. Mitjançant la fusió de les tecnologies de processament de veu, de composició musical i de programació informàtica, Vocaloid assoleix la capacitat de cantar d'una manera reeixida, incorporant l'enregistrament de la veu d'actors de doblatge o cantants que després es fragmenten, processen i recomponen algoritmicament per actuar com a substitut d'un cantant real, amb la possibilitat d'afegir tota mena d'efectes, com vibrato, canvis de to i d'accent.
@@ -32,7 +32,7 @@ El sistema Vocaloid facilita a qualsevol persona, amb el domini necessari de l'e
 > En el procés d'evolució del metamedi ordinador, els diversos tipus de medis media es remesclen per a formar noves combinacions. Certes parts d'aquestes combinacions experimenten noves remescles, i així fins l'infinit. — Manovich (2013, p. 188)
 
 ## Gatebox: la hibridació domèstica
-
+![Usuari interactuant amb un dispositiu Gatebox © Gizmodo](https://es.gizmodo.com/app/uploads/2018/08/ybze4tcby9axo4am1se4.jpg)
 Gatebox representa un altre exemple d'hibridació mediàtica en el context de les tecnologies domèstiques intel·ligents. Desenvolupat per l'empresa japonesa Gatebox Inc. (actualment Mirai Inc.), aquest dispositiu transgredeix les fronteres tradicionals entre diversos mitjans i tecnologies, creant una experiència que, segons les teories de Lev Manovich, reflecteix les complexes dinàmiques de remediació i convergència en l'era digital.
 
 ### De l'assistent virtual a la companya virtual
